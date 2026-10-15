@@ -15,4 +15,4 @@ Es ist total nervig.
 
 
 # Starstruck 
-Der ist für mich bis jetzt fast unmöglich.
+Der ist für mich bis jetzt fast unmöglich. Ich brauche dafür 16 Sterne auf einem Repo.
