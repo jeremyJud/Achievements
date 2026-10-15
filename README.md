@@ -1,3 +1,3 @@
 # Achievements
 für achievements
-Es kann gut sein, dass es nicht funktioniert aber ich versuche es mal 
+Es kann gut sein, dass es nicht funktioniert aber wir versuchen es mal 
