@@ -18,4 +18,4 @@ Es ist total nervig.
 Der ist für mich bis jetzt fast unmöglich. Ich brauche dafür 16 Sterne auf einem Repo.
 
 # Galaxy Brain 
-Den konnte ich ganz einfach bekommen. 
+Den konnte ich ganz einfach bekommen. ich konnte es einfach mit einem 2. Account machen. 
