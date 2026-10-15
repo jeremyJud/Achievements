@@ -10,4 +10,4 @@ Weil es toll aussieht!
 
 # Pullshark
 Ich bin gerade am Pullshark dran.
-Ich muss ganz oft einen Merge oder einen PR erstellen
+Ich muss ganz oft einen Merge oder einen PR erstellen.
