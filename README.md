@@ -15,3 +15,4 @@ Es ist total nervig.
 
 
 # Starstruck 
+Der ist für mich bis jetzt fast unmöglich.
